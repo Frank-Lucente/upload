@@ -1,0 +1,26 @@
+C:\Users\Jordan\Documents\coursework\visualBasic\week4\Bakery Solution\Bakery Project\bin\Debug\Bakery Project.exe.config
+C:\Users\Jordan\Documents\coursework\visualBasic\week4\Bakery Solution\Bakery Project\bin\Debug\Bakery Project.exe
+C:\Users\Jordan\Documents\coursework\visualBasic\week4\Bakery Solution\Bakery Project\bin\Debug\Bakery Project.pdb
+C:\Users\Jordan\Documents\coursework\visualBasic\week4\Bakery Solution\Bakery Project\bin\Debug\Bakery Project.xml
+C:\Users\Jordan\Documents\coursework\visualBasic\week4\Bakery Solution\Bakery Project\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\Jordan\Documents\coursework\visualBasic\week4\Bakery Solution\Bakery Project\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\Jordan\Documents\coursework\visualBasic\week4\Bakery Solution\Bakery Project\obj\Debug\Bakery Project.vbprojResolveAssemblyReference.cache
+C:\Users\Jordan\Documents\coursework\visualBasic\week4\Bakery Solution\Bakery Project\obj\Debug\Bakery_Project.frmMain.resources
+C:\Users\Jordan\Documents\coursework\visualBasic\week4\Bakery Solution\Bakery Project\obj\Debug\Bakery_Project.Resources.resources
+C:\Users\Jordan\Documents\coursework\visualBasic\week4\Bakery Solution\Bakery Project\obj\Debug\Bakery Project.vbproj.GenerateResource.Cache
+C:\Users\Jordan\Documents\coursework\visualBasic\week4\Bakery Solution\Bakery Project\obj\Debug\Bakery Project.exe
+C:\Users\Jordan\Documents\coursework\visualBasic\week4\Bakery Solution\Bakery Project\obj\Debug\Bakery Project.xml
+C:\Users\Jordan\Documents\coursework\visualBasic\week4\Bakery Solution\Bakery Project\obj\Debug\Bakery Project.pdb
+C:\Users\Frank\Downloads\Bakery Solution\Bakery Project\bin\Debug\Bakery Project.exe.config
+C:\Users\Frank\Downloads\Bakery Solution\Bakery Project\obj\Debug\Bakery Project.exe
+C:\Users\Frank\Downloads\Bakery Solution\Bakery Project\obj\Debug\Bakery Project.xml
+C:\Users\Frank\Downloads\Bakery Solution\Bakery Project\obj\Debug\Bakery Project.pdb
+C:\Users\Frank\Downloads\Bakery Solution\Bakery Project\bin\Debug\Bakery Project.exe
+C:\Users\Frank\Downloads\Bakery Solution\Bakery Project\bin\Debug\Bakery Project.pdb
+C:\Users\Frank\Downloads\Bakery Solution\Bakery Project\bin\Debug\Bakery Project.xml
+C:\Users\Frank\Downloads\Bakery Solution\Bakery Project\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\Frank\Downloads\Bakery Solution\Bakery Project\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\Frank\Downloads\Bakery Solution\Bakery Project\obj\Debug\Bakery Project.vbprojResolveAssemblyReference.cache
+C:\Users\Frank\Downloads\Bakery Solution\Bakery Project\obj\Debug\Bakery_Project.frmMain.resources
+C:\Users\Frank\Downloads\Bakery Solution\Bakery Project\obj\Debug\Bakery_Project.Resources.resources
+C:\Users\Frank\Downloads\Bakery Solution\Bakery Project\obj\Debug\Bakery Project.vbproj.GenerateResource.Cache
